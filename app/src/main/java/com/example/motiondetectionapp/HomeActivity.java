@@ -86,7 +86,7 @@ public class HomeActivity extends CameraActivity {
                     return rgba;
                 } else {
 
-                    if (!is_init) {https://github.com/rafifathurr/motion-detection-app.git
+                    if (!is_init) {
                         gray = inputFrame.gray();
 
                         prev_gray = gray.clone();
