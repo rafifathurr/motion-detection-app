@@ -1,0 +1,4 @@
+/Users/macbook/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/macbook/Documents/android-project/FaceMatchApp/opencv/.cxx/Debug/3ax3e4x6/x86 \
+  opencv_jni_shared

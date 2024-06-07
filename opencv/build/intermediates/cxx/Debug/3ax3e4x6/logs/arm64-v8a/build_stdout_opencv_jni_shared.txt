@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\User\Documents\Android Project\motion-detection\opencv\.cxx\Debug\3ax3e4x6\arm64-v8a'
+ninja: no work to do.

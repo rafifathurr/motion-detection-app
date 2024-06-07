@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/macbook/Documents/android-project/FaceMatchApp/opencv/.cxx/Debug/3ax3e4x6/x86'
+ninja: no work to do.
