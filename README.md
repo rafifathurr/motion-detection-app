@@ -1,1 +1,1 @@
-# Mobile Motion Detection App with OpenCV SDK
+# Mobile Object Motion Detection App with OpenCV SDK
